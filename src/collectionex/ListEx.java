@@ -2,7 +2,7 @@ package collectionex;
 
 import java.util.LinkedList;
 
-public class ListEx {
+public class ListExxxxxxxxxxxxxxxxxxx {
 
 	public static void main(String[] args) {
 
